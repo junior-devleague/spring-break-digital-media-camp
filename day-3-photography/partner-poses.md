@@ -11,9 +11,10 @@ Explore scene setting, lighting, composition, and how to find the "hidden gem" t
 1. Find a partner.
 2. You and your partner will take 3 high impact (dynamic, captivating) pictures of each other to edit. Be creative, great pictures can be found in seemingly normal places. Think about the following as you decide how to take your pictures.
 
+## Composition
 Composition | Description
 ------------|-------------
-Subject | What types of objects and elements will you craft in your scene?
+Subject | What types of objects and elements will you have in your scene?
 Subject Position | Balance the element's positions within your scene. Allow space for subjects to move. Use the Rule of Thirds.
 Rule of Thirds | Break your image into thirds. Usually, having more content clustered in 2/3s of the space produces interesting results.
 Negative Space | Space that doesn't have the main subject. More negative space will focus the photo on your subject. Less negative space will provide more intimate feel.
@@ -22,19 +23,21 @@ Proportion | By putting your object closer to the camera, you can get have the a
 Counterpoint | If there's only one visual element, interest can be lost fast. Consider using multiple "visual points" (a small, blurred and subtle thing in the upper right corner) that will add to your story.
 Leading the Eye | Lead the viewer's eye through the photograph. Have the subjects look in a certain direction, use negative space, or elements in the scene to draw attention to a path in your photograph.
 
+## Design
 Design | Description
 -------|------------
 Lines | Different types of lines and repetition can help to convey different emotions.
 Shapes | Contrasting shapes allow for interesting elements within your scene.
 Pattern | Repetition of pattern can change a static photo to one with more energy.
 
-
+## Visual Depth
 Visual Depth | Description
 -------------|------------
 Near/Far | Think about perspective and how different items look when they are placed nearer or farther away from you.
 Selective Focus | Make a single element stand out by being very close, with other elements trailing farther away.
 Gesture | The moment of expression that can be found in anything! What is that special "moment"?
 
+## Light and Shadow
 Light and Shadow | Description
 ---------------- | -----------
 Casting Life | Give life to your object by finding an interesting way that the light can fall on your elements.
@@ -57,4 +60,4 @@ Can you see how position, composition, choice of lighting, shapes, and various v
 
 ![Ex. 2](https://github.com/junior-devleague/spring-break-digital-media-camp/blob/master/day-3-photography/images/ex-2.png)
 
-Does the photographer lead your eye through the photo? How does repetition and various patterns add to the scene? 
+Does the photographer lead your eye through the photo? How does repetition and various patterns add to the scene?
