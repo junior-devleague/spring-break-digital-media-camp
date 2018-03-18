@@ -139,3 +139,4 @@ Try this one on your own!
 
 1. Play around with various CSS effects: https://www.w3schools.com/cssref/default.asp
 2. Add more HTML elements if needed: https://www.w3schools.com/html/
+3. Go to Google Fonts and change your font: https://fonts.google.com/ 
