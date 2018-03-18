@@ -8,7 +8,7 @@ Understand how stop motion works and use elements of stop motion to have a clay 
 
 ## Your Challenge
 
-## Part I Hi!
+## Part I: Hi!
 
 1. Create a character with at least one hand or arm capable of waving out of clay.
 2. Using your picture taking device, take pictures of your clay character waving. Make sure to take lots of pictures at every increment. Position your clay character, then take a picture. Change the position slightly, then take another picture...etc.
@@ -22,7 +22,7 @@ Understand how stop motion works and use elements of stop motion to have a clay 
   * Play the stop motion by hitting the play button in the right upper corner screen.
 5. If it's not what you expected, try again! Take more pictures or whiteboard it to get a better idea of what positions you want.
 
-## Part II In the Mood
+## Part II: In the Mood
 
 1. Select a secret mood from the box of moods. Don't tell anyone what mood you have!
 2. Have your character exhibit that mood through its actions. Make strategic positions. Remember characters that you see in movies or television and see if you can mimic how they are able to show their emotions.
